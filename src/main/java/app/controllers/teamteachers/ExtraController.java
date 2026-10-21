@@ -6,7 +6,8 @@ public class ExtraController {
     private String street;
     private int age;
 
-    public static void hejsa() {
-
+    public void hejsa() {
+        int i = 0;
+        int j = 1;
     }
 }
