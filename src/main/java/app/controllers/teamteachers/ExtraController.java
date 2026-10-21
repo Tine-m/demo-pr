@@ -8,6 +8,6 @@ public class ExtraController {
 
     public void hejsa() {
         int i = 0;
-        int J = 1;
+        int j = 1;
     }
 }
