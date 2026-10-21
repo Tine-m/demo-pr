@@ -2,9 +2,9 @@ package app.controllers.teamteachers;
 
 public class ExtraController {
 
-    private int Name;
-    String street;
-    private String age;
+    private int name;
+    private String street;
+    private int age;
 
     public static void hejsa() {
 
